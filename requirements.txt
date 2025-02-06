@@ -1,0 +1,11 @@
+# requirements.txt
+numpy
+pandas
+pathlib
+spacy
+textnets
+spacy-transformers
+matplotlib
+python-igraph
+leidenalg
+gravis
